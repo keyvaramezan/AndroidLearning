@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">AndroidLearning</string>
+    <string name="first_quarter">First qaurter</string>
+    <string name="jan">JAN</string>
+    <string name="feb">FEB</string>
+    <string name="mar">MAR</string>
+    <string name="second_quarter">Second quarter</string>
+    <string name="apr">APR</string>
+    <string name="may">MAY</string>
+
 </resources>
