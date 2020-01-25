@@ -128,5 +128,27 @@
     </LinearLayout>
 
 
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="10dp">
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:background="#08065C"
+            android:text="@string/may"
+            android:gravity="center"
+            android:textColor="@color/white"
+
+            />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/sport5" />
+
+    </LinearLayout>
 
 </LinearLayout>
